@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1505044579 source:c:\users\kleber\desktop\jogonatasha\jogonatasha\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
+1505097930 source:c:\users\kleber\desktop\jogo da velha\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+
